@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<html>
+  <head>
+    <title>NIGGA</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content="Nigga Fust">
+    <meta name="description" content="Nigga is best friend whit men">
+    <link rel="shortcut icon" href="D:/support/Don/Dona.png" type="imange/png"/>
+    </head>
+  <body>
+NIGGA NIGGA NIGGA NIGGA NIGGA NIGGA NIGGA NIGGA NIGGA NIGGA NIGGA NIGGA NIGGA
+<h1>NIGGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEERS</h1>
+<h2>little NIGGEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEERS</h2>
+<p id="idde"><b>niger</b> <br><em>asrwsew</em></p>
+<p>afro merica</p>
+<p>ola americonas</p>
+<a href="https://ru.wikipedia.org/wiki/Чёрный_цвет" target="_blank">
+NIgger color
+</a>
+<br>
+<a href="#idde">medium tank made in londond</a>
+<ul>
+  <li>First faggot</li>
+  <li>second faggot</li>
+  <li>damn it <a href="https://ru.wikipedia.org/wiki/Белый_цвет">WHITE</a> </li>
+</ul>
+<hr>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Персонаж <img src="D:/support/Don/MAN.png" height="16"> </th>
+      <th>Сила <img src="D:/support/Don/Dona.png" > </th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>Мужик</td>
+    <td>929</td>
+  </tr>
+  <tr>
+    <td>Питух</td>
+    <td>293</td>
+  </tr>
+  </tbody>
+  <tfoot>
+    <td colspan="2">Итог:Мужик сильнее питуха</td>
+  </tfoot>
+</table>
+<h1>Дебилы</h1>
+<img src="D:\Дебилы.png" alt="">
 
-You can use the [editor on GitHub](https://github.com/Dondandelion/Html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<form class="" action="index.html" method="post">
+  <input type="text" name="" value="">
+</form>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dondandelion/Html/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  </body>
+</html>
